@@ -1,1 +1,1 @@
-# hello-comp3341
+Hello World - COMP3341.
